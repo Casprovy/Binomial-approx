@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1324205718 source:c:\users\tomags\documents\ca3\nm ca3\exe3-2_binmodel02.cpp
+	"Exe3-2_BinModel02.h"
+	<iostream>
+	<cmath>
+
+1478507982 c:\users\tomags\documents\ca3\nm ca3\exe3-2_binmodel02.h
+
+1478508960 source:c:\users\tomags\documents\ca3\nm ca3\exe3-2_options09.cpp
+	"Exe3-2_Options09.h"
+	"Exe3-2_BinModel02.h"
+	<iostream>
+	<cmath>
+	<vector>
+
+1478508960 c:\users\tomags\documents\ca3\nm ca3\exe3-2_options09.h
+	"Exe3-2_BinModel02.h"
+
+1326206854 c:\users\tomags\documents\ca3\nm ca3\binlattice02.h
+	<iostream>
+	<iomanip>
+	<vector>
+
+1478508595 source:c:\users\tomags\documents\ca3\nm ca3\exe3-2_main.cpp
+	"Exe3-2_BSModel.h"
+	"Exe3-2_BinModel02.h"
+	"Exe3-2_Options09.h"
+	<iostream>
+
+1324460038 c:\users\tomags\documents\ca3\nm ca3\exe3-2_bsmodel.h
+	"Exe3-2_BinModel02.h"
+	<cmath>
+
